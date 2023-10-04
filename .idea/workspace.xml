@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebeb40d2-9ce5-413e-8c9b-cdbd23fb1e0a" name="Changes" comment="arreglo repo no sale src">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/SalarioCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ejercicio1/SalarioCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio1/nosaleelSRCengit.java" beforeDir="false" />
+    <list default="true" id="ebeb40d2-9ce5-413e-8c9b-cdbd23fb1e0a" name="Changes" comment="commit 1 finish">
+      <change beforePath="$PROJECT_DIR$/src/test/java/Ejercicio2/FlightBookingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ejercicio2/FlightBookingServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,15 +62,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="JUnit.FlightBookingServiceTest">
+    <configuration name="FlightBookingServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Examen1QA.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Ejercicio2" />
+      <option name="MAIN_CLASS_NAME" value="Ejercicio2.FlightBookingServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SalarioCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Examen1QA.test" />
       <extension name="coverage">
@@ -91,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FlightBookingServiceTest" />
         <item itemvalue="JUnit.SalarioCalculatorTest" />
       </list>
     </recent_temporary>
@@ -120,12 +134,30 @@
       <option name="project" value="LOCAL" />
       <updated>1696438502464</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1696459027945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696459027945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 1 finish">
+      <option name="closed" value="true" />
+      <created>1696459175332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696459175332</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ready for test" />
     <MESSAGE value="arreglo repo no sale src" />
-    <option name="LAST_COMMIT_MESSAGE" value="arreglo repo no sale src" />
+    <MESSAGE value="commit 1" />
+    <MESSAGE value="commit 1 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1 finish" />
   </component>
 </project>
