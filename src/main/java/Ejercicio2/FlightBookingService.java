@@ -2,12 +2,11 @@ package Ejercicio2;
 
 public class FlightBookingService {
     public boolean areTicketsAvailable(String destination, int ticketCount) {
-        // Simulate that tickets are always available
         return true;
     }
 
     public String getWeekday(int day, int month, int year) {
-        return "Monday"; // Simplified return. In a real implementation, this should return the correct weekday.
+        return "Monday";
     }
 
     public String bookFlight(String destination, int ticketCount, int day, int month, int year) {
