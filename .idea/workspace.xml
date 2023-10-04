@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebeb40d2-9ce5-413e-8c9b-cdbd23fb1e0a" name="Changes" comment="commit 1 finish">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Ejercicio2/FlightBookingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ejercicio2/FlightBookingServiceTest.java" afterDir="false" />
+    <list default="true" id="ebeb40d2-9ce5-413e-8c9b-cdbd23fb1e0a" name="Changes" comment="commit 3 primerParcial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Ejercicio3/FlightBookingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ejercicio3/FlightBookingServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,22 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FlightBookingServiceTest">
+  <component name="RunManager" selected="JUnit.FlightBookingServiceTest (1)">
+    <configuration name="FlightBookingServiceTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Examen1QA.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Ejercicio3" />
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3.FlightBookingServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlightBookingServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Examen1QA.test" />
       <extension name="coverage">
@@ -104,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FlightBookingServiceTest (1)" />
         <item itemvalue="JUnit.FlightBookingServiceTest" />
         <item itemvalue="JUnit.SalarioCalculatorTest" />
       </list>
@@ -150,7 +167,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696459175332</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 2 primerParcial">
+      <option name="closed" value="true" />
+      <created>1696460526816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696460526816</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit 3 primerParcial">
+      <option name="closed" value="true" />
+      <created>1696461455166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696461455166</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +191,8 @@
     <MESSAGE value="arreglo repo no sale src" />
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 1 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1 finish" />
+    <MESSAGE value="commit 2 primerParcial" />
+    <MESSAGE value="commit 3 primerParcial" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3 primerParcial" />
   </component>
 </project>
