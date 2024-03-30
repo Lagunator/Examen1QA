@@ -1,0 +1,19 @@
+Se tiene un servicio que retorna un valor booleano (true,false) que sirve
+para verificar si un numero positivo es primo o no es primo
+  Service --> isPrime(number) ---> true/false
+
+Como usuario quiero generar un posible premio basado en la edad de los
+participantes si la edad es <= 10  y el numero es primo se multiplica la
+edad por 100 y es el resultado devuelto, si no se devuelve la edad
+
+participantes con la edad mayor > 10 si la edad es numero primo
+se multiplica por 80 y se retorna el valor, si no se devuelve 0;
+ edad 2 >  output 200
+ edad 9 >  output 9
+ edad 13 >  output 1040
+ edad 15 >  output 0
+getPremio(edad){
+  **
+  **
+  **
+}
